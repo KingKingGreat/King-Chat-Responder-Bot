@@ -1,0 +1,25 @@
+<style>
+  /* Start typing CSS here (Update version every change at index.html <link> head attribute) */
+  a {
+
+  }
+  body * {
+  	font-family: 'Roboto', sans-serif;
+  }
+  h1, h2, h3 {
+  	color: black;
+  	text-align: center;
+  }	
+  input {
+  	font-size: 20px;
+  	padding: 10px;
+  }
+  #container {
+  	text-align: center;
+  }
+  #footer {
+  	position: absolute;
+  	top: 98vh;
+  	left: 0;
+  }
+</style>
